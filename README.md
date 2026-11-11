@@ -1,2 +1,2 @@
 # buildfest
-For the buildfest datathon challenge
+This was everything we submitted for the buildfest datathon challenge
